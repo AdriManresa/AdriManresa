@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **adrianabmanresa@gmail.com**
 
-- ⚡ Fun fact **the name of the dog in my perfil is "Corcho"**
+- ⚡ Fun fact **the name of the dog in my photo is "Corcho"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
