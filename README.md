@@ -7,7 +7,6 @@ Full Stack Developer
 *   🌍  I'm based in Mendoza, Argentina
 *   ✉️  You can contact me at [adrianabmanresa@gmail.com](mailto:adrianabmanresa@gmail.com)
 *   🧠  I'm learning React, Docker, Javascrip
-*   ⚡  Fun fact the name of the dog is Corcho
 
 Skills 
 --------------------
