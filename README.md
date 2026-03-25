@@ -1,10 +1,7 @@
 # I'm Adriana Manresa 👋
 
-
-Backend Developer
---------------------
 ## 🚀 About Me
-*   Desarrolladora Backend en formación (Java/Python). Enfocado en arquitectura limpia y bases de datos. Buscando mi primera oportunidad en el mercado hispanohablante.
+* Aspiring Backend Developer (Java/Python). Focused on clean architecture and database management. Currently in my second year of Computer Engineering, seeking my first professional opportunity within the Spanish-speaking market.
 
 Skills 
 --------------------
