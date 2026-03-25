@@ -13,6 +13,10 @@ Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
+Tools & Deployment
+--------------------
+![Docker](https://img.shields.io/badge/docker-%232496ED?style=flat&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032?style=flat&logo=git&logoColor=white)
 
 
 Socials
