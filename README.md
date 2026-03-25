@@ -3,6 +3,7 @@
 
 Backend Developer
 --------------------
+## 🚀 About Me
 *   Desarrolladora Backend en formación (Java/Python). Enfocado en arquitectura limpia y bases de datos. Buscando mi primera oportunidad en el mercado hispanohablante.
 
 Skills 
